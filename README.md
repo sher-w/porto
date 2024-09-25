@@ -1,2 +1,2 @@
-# porto
-A collection of Sherleen's personal and also group project's works
+# portfolio
+Hi there! I'm Sherleen, an undergraduate computer science student at Bina Nusantara University specializing in multimedia. As a multimedia-concentrated student, I have gained significant experience in web development, focusing on both UI/UX design and creating visually engaging and user-friendly websites, mainly visualizing them through the help of Figma and then actualizing them with android studio, HTML, js, react.js, and axure. 
