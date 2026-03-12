@@ -1,2 +1,26 @@
-# portfolio
-Hi there! I'm Sherleen, an undergraduate computer science student at Bina Nusantara University specializing in multimedia. As a multimedia-concentrated student, I have gained significant experience in web development, focusing on both UI/UX design and creating visually engaging and user-friendly websites, mainly visualizing them through the help of Figma and then actualizing them with Android Studio, HTML, JS, react.js, and axure RP. Apart from coding, I have extensive experience designing for my university's events, including posters, Instagram feeds, invitations, menu boards, and more.
+# Sher – Portfolio
+
+Computer Science graduate (streamed in Multimedia) from BINUS University (3.5 years).
+
+## Experience
+Full-Stack Software Engineer Intern – GUUD Logistics
+• Implemented UI designs from Figma
+• Developed frontend components with React
+• Assisted backend development
+• Worked with PostgreSQL queries
+• Debugged and maintained internal systems
+
+## Projects
+### CALS Figma Prototype
+UI prototype built in Figma.
+### KBBI Prototype
+Prototype exploring UI structure and interaction design.
+### Zombie LX
+Game prototype built with C# in Unity.
+#### Intern report 
+A compilation of my works during internship 
+
+## Skills
+Frontend: HTML, CSS, JavaScript, React  
+Backend: Laravel, Java  
+Tools: Git, Figma, Trello, VS Code
