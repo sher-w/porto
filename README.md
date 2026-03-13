@@ -17,8 +17,8 @@ UI prototype built in Figma.
 Prototype exploring UI structure and interaction design.
 ### Zombie LX
 Game prototype built with C# in Unity.
-#### Intern report 
-A compilation of my works during internship 
+### Intern report 
+A compilation of my contributions during the internship 
 
 ## Skills
 Frontend: HTML, CSS, JavaScript, React  
